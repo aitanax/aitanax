@@ -35,7 +35,10 @@ More repositories are available in the [repository tab](https://github.com/aitan
   <img src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=for-the-badge" alt="Jupyter Notebook" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="SQL" />
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS" />
 </p>
+
 
 ---
 
