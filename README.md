@@ -17,7 +17,7 @@ Feel free to explore my repositories and connect with me!
 |------------|-------------|
 | [**Proyecto Movilidad**](https://github.com/aitanax/Proyecto_Movilidad) | 🧠 In this project, we tackled a complex heuristic problem related to optimizing ambulance deployment across a geographical area. The challenge was to strategically place a limited number of ambulances to maximize coverage and minimize response time to emergencies, all while adhering to various constraints such as resource limitations and population density. |
 | [**Clustering Estrellas**](https://github.com/aitanax/Clustering_Estrellas) | 🌟  In this project, we applied clustering techniques to categorize stars based on their properties. While some clusters matched known star types like red and brown dwarfs, others revealed atypical or distinctive characteristics, suggesting the need for further investigation. |
-| [** Aplicación del Algoritmo A* **](https://github.com/aitanax/Algoritmo_A) |  🖥️  . |
+| [**Aplicación del Algoritmo A Estrella**](https://github.com/aitanax/Algoritmo_A) |  🖥️  . |
 
 ---
 
