@@ -1,7 +1,7 @@
 <!-- Greetings -->
 # Hi there 👋, I'm Aitana Ortiz Guiño
 
-Welcome to my GitHub profile! Welcome to my GitHub profile! I'm passionate about Software Development, Databases, and Artificial Intelligence. I enjoy solving complex coding problems and optimizing systems through efficient database design and management.
+Welcome to my GitHub profile! I'm passionate about Software Development, Databases, and Artificial Intelligence. I enjoy solving complex coding problems and optimizing systems through efficient database design and management.
 
 - 🎓 **Final-year Computer Engineering student** at **Universidad Carlos III de Madrid (UC3M)**.
 - 💻 Currently working as a **Technician Specialist** at [LODCoreMadrid (UC3M)](https://lodcoremadrid.es/), specialized in open and linked data technologies.
